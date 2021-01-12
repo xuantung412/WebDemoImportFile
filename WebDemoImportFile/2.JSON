@@ -1,0 +1,122 @@
+{
+  "Themes": [
+    {
+      "Theme": "BEACH",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../shop/themes/BEACH"
+        }
+      ]
+    },
+    {
+      "Theme": "CARIBBEAN",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/CARIBBEAN"
+        }
+      ]
+    },
+    {
+      "Theme": "DISNEY",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../shop/themes/DISNEY"
+        }
+      ]
+    },
+    {
+      "Theme": "GAMBLING",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/GAMBLING"
+        }
+      ]
+    },
+    {
+      "Theme": "HISTORIC",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/HISTORIC"
+        }
+      ]
+    },
+    {
+      "Theme": "MOUNTAINS",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/MOUNTAINS"
+        }
+      ]
+    },
+    {
+      "Theme": "NATIONAL-PARKS",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../NATIONAL-PARKS"
+        }
+      ]
+    },
+    {
+      "Theme": "OUTDOORS",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/OUTDOORS"
+        }
+      ]
+    },
+    {
+      "Theme": "ROMANTIC",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/ROMANTIC"
+        }
+      ]
+    },
+    {
+      "Theme": "SHOPPING",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/SHOPPING"
+        }
+      ]
+    },
+    {
+      "Theme": "SKIING",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../shop/themes/SKIING"
+        }
+      ]
+    },
+    {
+      "Theme": "THEME-PARK",
+      "Links": [
+        {
+          "rel": "destinations",
+          "href": "https://api-crt.cert.havail.sabre.com/.../themes/THEME-PARK"
+        }
+      ]
+    }
+  ],
+  "Links": [
+    {
+      "rel": "self",
+      "href": "https://api-crt.cert.havail.sabre.com/.../sup.../shop/themes"
+    },
+    {
+      "rel": "linkTemplate",
+      "href": "https://api-crt.cert.havail.sabre.com/.../sup.../shop/themes"
+    }
+  ]
+}
