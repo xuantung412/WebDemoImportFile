@@ -14,7 +14,7 @@
             </asp:GridView>
 
 
-                    <asp:GridView ID="GridView2" runat="server">
+                    <asp:GridView ID="GridView2" runat="server" BorderStyle="None" OnSelectedIndexChanged="GridView2_SelectedIndexChanged">
                     </asp:GridView>
 
 
@@ -25,11 +25,18 @@
         <asp:FileUpload ID="FileUpload1" runat="server" />
         <asp:Button ID="UploadButton" runat="server" OnClick="UploadButton_Click" Text="Upload" />
         <asp:TextBox ID="TextBoxDisplay" runat="server" Height="132px" Width="409px"></asp:TextBox>
-        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <asp:Label ID="RequestDataAPIsButton" runat="server" Text="RequestdataAPIs" Visible="False"></asp:Label>
+
+
+
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
 
 
 
     </div>
+
+
+
 
     <div class="row">
 
